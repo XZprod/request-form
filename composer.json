@@ -1,0 +1,21 @@
+{
+  "name": "xzprod/form",
+  "type": "project",
+  "authors": [
+    {
+      "name": "XZprod",
+      "email": "r.o.profile@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-pdo": "*"
+  },
+
+
+  "autoload": {
+    "psr-4": {
+      "App\\": "class"
+    }
+  }
+
+}
